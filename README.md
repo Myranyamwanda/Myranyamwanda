@@ -39,7 +39,7 @@ I am a Computer Science student with a strong foundation in core software develo
 ## Connect With Me
 
 - 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/myra-nyamwanda-00462a347/)
-- 📧 **Direct Contact:** [your.email@example.com](mailto:itsmyraah@gmail.com)
+- 📧 **Direct Contact:** [itsmyraah@gmail.com](mailto:itsmyraah@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
