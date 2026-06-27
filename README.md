@@ -4,7 +4,7 @@
 
 # Hi there, I'm Myra 👋
 
-I am a Computer Science student with a strong foundation in core software development, currently shifting my focus toward the world of Data Science. I love leveraging my algorithmic problem-solving skills to build clean code, and I am excited about applying those engineering fundamentals to analyze complex datasets and build predictive models.
+I am a Computer Science student with a strong foundation in core software development, currently shifting my focus toward the world of Data Science. I love leveraging my algorithmic problem-solving skills to build clean code, and I am excited about applying those fundamentals to analyze complex datasets and build predictive models.
 
 - 🔭 **Current Focus:** Transitioning my software engineering fundamentals into data-driven applications and projects.
 - 🌱 **Learning & Exploration:** Actively learning core Data Science libraries (`Pandas`, `NumPy`, `Scikit-Learn`), mastering `SQL` basics, and setting up my first analytical models.
@@ -23,7 +23,6 @@ I am a Computer Science student with a strong foundation in core software develo
 ---
 
 ## GitHub Stats
-*Note: These data visualization modules automatically update in real time based on your active version control contributions.*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Myranyamwanda&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
@@ -39,8 +38,8 @@ I am a Computer Science student with a strong foundation in core software develo
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 **Direct Contact:** [your.email@example.com](mailto:your.email@example.com)
+- 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/myra-nyamwanda-00462a347/)
+- 📧 **Direct Contact:** [your.email@example.com](mailto:itsmyraah@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
